@@ -26,7 +26,7 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 - 💻 Passionate about **Programming** & **Creative Design**
 - 🌱 Currently sharpening skills in **C++** and **Web Development**
 - 🎨 Love designing in **Photoshop, Canva & Illustrator**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **hammadmusab321@gmail.com**
 - ⚡ Goal: Become a skilled Software Engineer & UI/UX enthusiast
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
