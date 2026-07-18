@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-\```yaml
+\```
 Name         : Muhammad Hammad Musab
 Education    : Software Engineering (4th Semester)
 Role         : Developer & Designer
@@ -82,16 +82,16 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/Hammad Ansari" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/hammad__musab" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:hammadmusab321@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://wa.me/YOUR_NUMBER" target="_blank">
+<a href="https://wa.me/+92-3002932548" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
