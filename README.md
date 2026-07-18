@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Muhammad%20Hammad%20Musab&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Developer%20|%20Designer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:2AF598&height=250&section=header&text=Muhammad%20Hammad%20Musab&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Developer%20|%20Designer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F71313&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;4th+Semester+%7C+Batch+2023;C%2B%2B+Developer+%7C+Creative+Designer+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;4th+Semester+%7C+Batch+2023;C%2B%2B+Developer+%7C+Creative+Designer+%F0%9F%8E%A8" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=orange" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=hammadmusab321-hamdu&label=Profile%20Views&color=ff0080&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2AF598?style=for-the-badge&logo=github" alt="status"/>
 
 </div>
 
@@ -13,14 +13,14 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
+\```yaml
 Name         : Muhammad Hammad Musab
 Education    : Software Engineering (4th Semester)
 Role         : Developer & Designer
 Location     : Pakistan 🇵🇰
 Currently    : Learning & Building Cool Projects 🚀
 Fun Fact     : I turn coffee into code and ideas into designs ☕✨
-```
+\```
 
 - 🎓 4th Semester **Software Engineering** student
 - 💻 Passionate about **Programming** & **Creative Design**
@@ -59,13 +59,13 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff69b4&icon_color=orange&text_color=fff&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=ff69b4&text_color=fff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadmusab321-hamdu&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadmusab321-hamdu&layout=compact&theme=synthwave&hide_border=true"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=orange&currStreakLabel=ff69b4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadmusab321-hamdu&theme=synthwave&hide_border=true"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -73,7 +73,7 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hammadmusab321-hamdu&theme=discord&no-frame=true&row=1&column=7"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -100,13 +100,13 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <div align="center">
 
-### 💭 "Great things are built one line of code at a time." 
+### 💭 "Great things are built one line of code at a time."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AF598,50:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
 
 </div>
