@@ -1,4 +1,4 @@
-@@ -1,112 +1,112 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:2AF598&height=250&section=header&text=Muhammad%20Hammad%20Musab&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Developer%20|%20Designer&descAlignY=55&descSize=20" width="100%"/>
@@ -27,7 +27,6 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 - 💻 Passionate about **Programming** & **Creative Design**
 - 🌱 Currently sharpening skills in **C++** and **Web Development**
 - 🎨 Love designing in **Photoshop, Canva & Illustrator**
-- 📫 Reach me: **your-email@example.com**
 - 📫 Reach me: **hammadmusab321@gmail.com**
 - ⚡ Goal: Become a skilled Software Engineer & UI/UX enthusiast
 
@@ -53,29 +52,6 @@ Fun Fact     : I turn coffee into code and ideas into designs ☕✨
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadmusab321-hamdu&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadmusab321-hamdu&layout=compact&theme=synthwave&hide_border=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadmusab321-hamdu&theme=synthwave&hide_border=true"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hammadmusab321-hamdu&theme=discord&no-frame=true&row=1&column=7"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
